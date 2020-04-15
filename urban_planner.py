@@ -59,33 +59,33 @@ class Building:
 rolling_hills1 = Building("123 Rolling Hills", 1)
 rolling_hills1.purchase("bob")
 rolling_hills1.construct()
-rolling_hills1.printBuildingDetails()
+# rolling_hills1.printBuildingDetails()
 
 
 rolling_hills2 = Building("124 Rolling Hills", 2)
 rolling_hills2.purchase("tom")
 rolling_hills2.construct()
-rolling_hills2.printBuildingDetails()
+# rolling_hills2.printBuildingDetails()
 
 
 
 rolling_hills3 = Building("125 Rolling Hills ", 3)
 rolling_hills3.purchase("jon")
 rolling_hills3.construct()
-rolling_hills3.printBuildingDetails()
+# rolling_hills3.printBuildingDetails()
 
 
 
 rolling_hills4 = Building("126 Rolling Hills", 4)
 rolling_hills4.purchase("rob")
 rolling_hills4.construct()
-rolling_hills4.printBuildingDetails()
+# rolling_hills4.printBuildingDetails()
 
 
 
 rolling_hills5 = Building("127 Rolling Hills", 5)
 rolling_hills5.purchase("guy")
 rolling_hills5.construct()
-rolling_hills5.printBuildingDetails()
+# rolling_hills5.printBuildingDetails()
 
 
